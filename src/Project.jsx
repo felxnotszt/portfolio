@@ -7,7 +7,7 @@ function Project() {
             </h1>
             <div className="w-full flex justify-center p-5">
                 <img
-                    src="/Assets/Organisasi.jpg"
+                    src="/Assets/Organisasi.png"
                     alt="Foto Saya"
                     className="rounded-lg object-cover max-h-[650px] max-w-full"
                 />

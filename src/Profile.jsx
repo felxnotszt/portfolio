@@ -18,7 +18,7 @@ function Profile() {
                             {/* Paragraf */}
                             <div className="md:w-1/2 p-5">
                                 <p className="text-justify text-white">
-                                    Halo, nama saya Novalden Petra. Saya adalah mahasiswa jurusan Teknik Informatika yang antusias terhadap teknologi, website, dan desain. Saya suka belajar hal baru dan ingin berkembang melalui pengalaman nyata seperti magang dan proyek. Saya memiliki pengalaman dalam membuat website menggunakan React JS, dan Laravel. Saya juga mampu menggunakan software desain seperti Corel dan Canva.
+                                    Hello, my name is Novalden Petra. I am an Informatics Engineering student who is passionate about technology, web development, and design. I enjoy learning new things and aim to grow through real-world experiences such as internships and projects. I have experience in building websites using React JS and Laravel, and I am also skilled in using design tools such as CorelDRAW and Canva.
                                 </p>
                             </div>
 
@@ -66,11 +66,11 @@ function Profile() {
                             {/* BEM Staff */}
                             <div className="border border-gray-700 p-4 rounded-lg shadow-md">
                                 <h2 className="text-center font-bold text-lg sm:text-xl">
-                                    BEM Soegijapranata Catholic University
+                                    Student Executive Board, Soegijapranata Catholic University
                                 </h2>
                                 <div className="mt-2 flex flex-col items-center text-center text-sm sm:text-base">
-                                    <p>Staff Divisi Manajemen UKM Departemen Minat Bakat</p>
-                                    <p>Staff of The Month Bulan Juni 2025</p>
+                                    <p>Staff of UKM Management Division | Talent and Interest Department</p>
+                                    <p>Awarded "Staff of the Month" | June 2025</p>
                                 </div>
                             </div>
 
@@ -80,7 +80,7 @@ function Profile() {
                                     BEM Soegijapranata Catholic University
                                 </h2>
                                 <div className="mt-2 flex flex-col items-center text-center text-sm sm:text-base">
-                                    <p>Koordinator Perlengkapan Rector Cup 2025</p>
+                                    <p>Locgistic Coordinator Rector Cup 2025</p>
                                 </div>
                             </div>
 
@@ -106,7 +106,7 @@ function Profile() {
                             Soegijapranata Catholic University | Teknik Informatika
                         </div>
                         <div className="border border-gray-700 px-4 py-2 rounded-lg shadow-md">
-                            SMA N 7 Semarang | IPS
+                            SMA N 7 Semarang | Social Sciences
                         </div>
                         <div className="border border-gray-700 px-4 py-2 rounded-lg shadow-md">
                             SMP N 30 Semarang

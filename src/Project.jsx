@@ -59,7 +59,7 @@ function Project() {
 
             {/* Project AI */}
             <h1 className="font-bold text-3xl mt-32 text-center text-zinc-500">
-                Project AI | Penerjemah Bahasa Isyarat Tangan Menggunakan Neural Network
+                Project AI | Hand Sign Language Translator Using Neural Network
             </h1>
             <div className="flex justify-center mt-10">
                 <div className="w-full md:w-1/3 text-center">
@@ -69,7 +69,7 @@ function Project() {
                         rel="noopener noreferrer"
                         className="text-xl font-bold text-zinc-200 block"
                     >
-                        Video YouTube Project AI
+                        Project AI YouTube Video
                     </a>
                 </div>
             </div>
@@ -85,7 +85,7 @@ function Project() {
                         alt="Foto Project Desain Kaos"
                         className="rounded-lg object-cover max-h-[300px] mx-auto max-w-full"
                     />
-                    <p className="text-xl font-bold text-zinc-200 mt-3 block">Project Desain Kaos</p>
+                    <p className="text-xl font-bold text-zinc-200 mt-3 block">Project T-shirt Design</p>
                 </div>
 
                 <div className="w-full md:w-1/3 text-center">
@@ -100,7 +100,7 @@ function Project() {
                         rel="noopener noreferrer"
                         className="text-xl font-bold text-zinc-200 mt-3 block"
                     >
-                        Project Poster KKR
+                        KKR Poster Project
                     </a>
                 </div>
             </div>
